@@ -1,0 +1,1 @@
+'LineNumber1’,'’,'SatelliteNumber1’,'Classification’,'’,'ID1’,'ID2’,'ID3’,'’,'EpochYear’,'EpochDay’,'’,'FirstTimeDerivative’,'’,'SecondTimeDerivative’,'’,BSTAR,'’,'Ephemeris’,'’,'ElementSetNumber’,'Checksum1’,'’,'LineNumber2’,'’,'SatelliteNumber2’,'’,'Inclination’,'’,'RightAscension’,'’,'Eccentricity’,'’,'Perigee’,'’,'MeanAnomaly’,'’,'MeanMotion’,'Revolution’,'Checksum2’
