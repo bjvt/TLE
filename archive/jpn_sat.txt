@@ -1,0 +1,20 @@
+﻿BSAT-3B
+BSAT-3C/JCSat 
+IGS 
+JCSat 
+Kirameki 
+Kizuna 
+KKS
+MTSAT
+N-Star C 
+QZS-1 
+Reimei
+Rising
+SDS
+SEEDS 
+SOCRATES
+SOHLA
+SPROUT
+Superbird
+UNIFORM
+WNISat

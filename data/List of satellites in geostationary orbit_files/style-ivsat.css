@@ -1,0 +1,29 @@
+table  { font-family: Arial; font-size: 12pt; background-color:#FFFFFF; border-collapse: collapse;}
+.tableblue  { font-family: Arial; font-size: 12pt; background-color:#C6DAFC; border-collapse: collapse; padding: 2px; width: 100%}
+.tablewhite { font-family: Arial; font-size: 12pt; background-color:#FFFFFF; border-collapse: collapse; padding: 2px; width: 100%}
+body   { font-family: Arial; font-size: 12pt; background-color: #c0c0c0;}
+h1     { font-family: Arial; font-size: 14pt; color: #0000FF; font-weight: bold; text-align:left; padding-left: 1px }
+h2     { font-family: Arial; font-size: 12pt; color: #0000FF; font-weight: bold; text-align:left; padding-left: 1px }
+h3     { font-family: Arial; font-size: 12pt; color: #0000FF; font-weight: bold; text-align:left }
+p      { text-align: left; padding-left: 1px }
+img  { max-width:90%; height:auto; border: 0px none;  }
+#divhead  {  width: 1000px;  margin-left: auto ;  margin-right: auto; background-color: #FFFFFF;text-align: center}
+@media  (max-width: 999px){
+   #divhead  { position:absolute; top:0px; left: 0px; width: 100%; background-color: #FFFFFF;text-align: center}
+   }
+
+.windowbg     { background-color: #AFC6DB; font-size: 11px; font-family: Verdana; color: #000000; }
+.windowbg2    { background-color: #F8F8F8; font-size: 11px; font-family: Verdana; color: #000000; }
+.windowbg3    { background-color: #6394BD; font-size: 11px; font-family: Verdana; color: #000000; }
+.hr           { color: #6394BD; }
+.titlebg      { background-color: #8Eb4d7; color: #000000; }
+.text1        { font-style: normal; font-weight: bold; font-size: 12px; color: #000000; }
+.catbg        { background-color: #DEE7EF; color: #000000; font-weight: bold; font-size: 13px; }
+.bordercolor  { background-color: #6394BD; }
+.imgbg        { font-style: normal; font-size: 10px; color: #005177; }
+.imgcatbg     { font-style: normal; font-size: 10px; color: #005177; font-weight: bold; }
+.imgtitlebg   { font-style: normal; font-size: 10px; color: #000000;  font-weight: bold; }
+.imgwindowbg  { font-style: normal; font-size: 9px; color: #005177; }
+.imgmenu      { font-style: normal; font-size: 11px; color: #D4AD00; font-weight: bold; letter-spacing: 0.1em; }
+.quote        { font-size: 10px; font-family: Verdana, Helvetica, Arial; color: #000000; background-color: #DEE7EF; }
+.code         { font-size: 10px; font-family: 'Courier New'; color: #000000; background-color: #CCCCCC; }
